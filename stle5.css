@@ -1,0 +1,75 @@
+body {
+    background-color:  rgb(30,144,255);
+    font-family: Garamond;
+    color:white;
+
+}
+
+
+.left {
+  text-align: center;
+  height: 200px;
+  width: 25%;
+  float: left;
+  }
+  
+.center {
+  text-align: center;
+  height: 200px;
+  width: 50%;
+  float: left;
+  font-size: 250%;
+  }
+
+
+#glowny
+  {  
+  background: RGB(0,0,128);
+  clear: both;
+  padding: 60px;
+  text-transform: uppercase;
+  }
+  
+#stopka {
+    float: left;
+	width: 50%;
+	text-align: center;
+}
+
+#stopka2 {
+    float: left;
+	width:50%;
+	text-align: right;
+	padding-top: 100px;
+}
+
+#tablica {
+
+	width: 100%;
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid rgb(192,192,192);
+	padding: 10px;
+	
+}
+
+p {
+	padding: 20px;
+	font-size: 200%;
+	border: 1px solid rgb(192,192,192);	
+}
+
+p:hover {
+	background-color: rgb(192,192,192);
+}
+
+
+
+
+
+
+
+
+
